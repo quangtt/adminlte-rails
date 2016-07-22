@@ -45,7 +45,7 @@ If you want to use additional features, add more these lines to your `app/assets
      
 ## Version
 
-1.3.2 (AdminLTE 1.3.0)
+2.3.5 (AdminLTE 2.3.5)
 
 ## Changelog
 
